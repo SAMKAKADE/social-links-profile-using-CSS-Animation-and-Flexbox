@@ -101,3 +101,35 @@ h6:hover{
     }
     
 }
+@media screen and (max-width:321px){
+    html{
+        font-size: 40%;
+    }
+    .main{
+        margin-right: 2.5rem;
+    }
+    .btns{
+        gap: 0.5rem ;
+    }
+}
+@media screen and (max-width:469px){
+    html{
+        font-size: 60%;
+    }
+    .main{
+        margin-right: 2.5rem;
+    }
+}
+@media screen and (max-width:769px){
+    html{
+        font-size: 60%;
+    }
+    
+}
+@media screen and (max-width:991px){
+    html{
+        font-size: 60%;
+    }
+  
+    
+}
